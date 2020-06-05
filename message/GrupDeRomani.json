@@ -1,0 +1,102 @@
+[
+    {
+        "article_application":{
+            "application_name":"Telegram",
+            "chat_group_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4"
+        },
+        "article_detail":{
+            "article_HasMedia":false,
+            "article_pubtime":"2020-06-05T01:43:49.000000+00:00",
+            "article_pubtime_str":"2020-06-05 01:43:49+00:00",
+            "article_title":"Bun venit printre rom\u00e2ni, Flaviu! \ud83c\uddf7\ud83c\uddf4\n\nUserID-ul t\u0103u: 1005813493\n\n\ud83d\udcad Te rog cite\u0219te regulamentul grupului \u00eenainte de a posta.",
+            "article_url":"https://t.me/GrupDeRomani",
+            "author_account":"GrupDeRomani",
+            "author_id":1112203720,
+            "author_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4",
+            "domain_code":"telegram.org",
+            "media_path":"",
+            "media_type_code":"c",
+            "message_id":71209
+        }
+    },
+    {
+        "article_application":{
+            "application_name":"Telegram",
+            "chat_group_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4"
+        },
+        "article_detail":{
+            "article_HasMedia":false,
+            "article_pubtime":"2020-06-04T23:23:45.000000+00:00",
+            "article_pubtime_str":"2020-06-04 23:23:45+00:00",
+            "article_title":"Macar tu",
+            "article_url":"https://t.me/GrupDeRomani",
+            "author_account":"GrupDeRomani",
+            "author_id":1112203720,
+            "author_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4",
+            "domain_code":"telegram.org",
+            "media_path":"",
+            "media_type_code":"c",
+            "message_id":71203
+        }
+    },
+    {
+        "article_application":{
+            "application_name":"Telegram",
+            "chat_group_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4"
+        },
+        "article_detail":{
+            "article_HasMedia":false,
+            "article_pubtime":"2020-06-04T23:18:06.000000+00:00",
+            "article_pubtime_str":"2020-06-04 23:18:06+00:00",
+            "article_title":"Sex",
+            "article_url":"https://t.me/GrupDeRomani",
+            "author_account":"GrupDeRomani",
+            "author_id":1112203720,
+            "author_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4",
+            "domain_code":"telegram.org",
+            "media_path":"",
+            "media_type_code":"c",
+            "message_id":71200
+        }
+    },
+    {
+        "article_application":{
+            "application_name":"Telegram",
+            "chat_group_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4"
+        },
+        "article_detail":{
+            "article_HasMedia":false,
+            "article_pubtime":"2020-06-04T23:14:02.000000+00:00",
+            "article_pubtime_str":"2020-06-04 23:14:02+00:00",
+            "article_title":"Ce faceti?",
+            "article_url":"https://t.me/GrupDeRomani",
+            "author_account":"GrupDeRomani",
+            "author_id":1112203720,
+            "author_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4",
+            "domain_code":"telegram.org",
+            "media_path":"",
+            "media_type_code":"c",
+            "message_id":71199
+        }
+    },
+    {
+        "article_application":{
+            "application_name":"Telegram",
+            "chat_group_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4"
+        },
+        "article_detail":{
+            "article_HasMedia":false,
+            "article_pubtime":"2020-06-04T22:54:12.000000+00:00",
+            "article_pubtime_str":"2020-06-04 22:54:12+00:00",
+            "article_title":"Ce face\u021bi?",
+            "article_url":"https://t.me/GrupDeRomani",
+            "author_account":"GrupDeRomani",
+            "author_id":1112203720,
+            "author_name":"Grup Rom\u00e2nesc \ud83c\uddf7\ud83c\uddf4",
+            "domain_code":"telegram.org",
+            "media_path":"",
+            "media_type_code":"c",
+            "message_id":71198
+        }
+    }
+]
